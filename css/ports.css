@@ -20,3 +20,8 @@ body{
 .bg-3{
 	background-color: #1abc9c;
 }
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
